@@ -40,7 +40,7 @@ export default function Body() {
         
 
         <div>
-        
+            <h1>TRENDING PRODUCTS</h1>
         </div>
        
 
