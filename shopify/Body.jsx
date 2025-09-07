@@ -37,7 +37,7 @@ export default function Body() {
             <h1>UP TO 70% OFF THE ENTIRE STORE!. MADE WITH LOVE by The4 studio</h1>
         </div>
 
-        <div>hello</div>
+        
 
         <div>
         
