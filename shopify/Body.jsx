@@ -1,5 +1,3 @@
-import { Button } from "@material-tailwind/react";
-
 
 export default function Body() {
   return (
@@ -38,14 +36,9 @@ export default function Body() {
         </div>
 
         
+ 
 
-        <div>
-            <h1>TRENDING PRODUCTS</h1>
-        </div>
-       
-
-   
-      
     </div>
+      
   )
 }
